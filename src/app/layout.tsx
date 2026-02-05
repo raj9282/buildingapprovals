@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   metadataBase: siteUrl,
   // Core titles and description reused across pages.
   title: {
-    default: "Dubai Authority Approvals | Engineering & Fit-Out Consultants",
+    default: "Dubai Municipality Approval | DM | DCD | Trakhees approval",
     template: "%s | Building Approvals Dubai",
   },
   description:
